@@ -1,0 +1,10 @@
+source,target,weight
+Server_Room,IT_Dept,2
+Server_Room,Finance_Dept,5
+IT_Dept,Finance_Dept,4
+IT_Dept,HR_Dept,7
+Finance_Dept,Marketing,6
+HR_Dept,Marketing,3
+HR_Dept,Research_Lab,8
+Marketing,Research_Lab,4
+Server_Room,Research_Lab,10
