@@ -1,0 +1,11 @@
+KURUMSAL GÜVENLİK AĞI OPTİMİZASYON SONUÇLARI
+=============================================
+Bağlantı: Server_Room  -- IT_Dept      | Maliyet: 2 bin $
+Bağlantı: HR_Dept      -- Marketing    | Maliyet: 3 bin $
+Bağlantı: IT_Dept      -- Finance_Dept | Maliyet: 4 bin $
+Bağlantı: Marketing    -- Research_Lab | Maliyet: 4 bin $
+Bağlantı: Server_Room  -- Finance_Dept | Maliyet: 5 bin $
+Bağlantı: IT_Dept      -- HR_Dept      | Maliyet: 7 bin $
+---------------------------------------------
+Toplam Minimum Kurulum Maliyeti: 25 bin $
+=============================================
